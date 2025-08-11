@@ -12,16 +12,8 @@ A sleek React app that shows trending movies and lets you search for movies usin
 - Usage
 Use the search input to find movies by name
 
-Trending movies are displayed by default
-
-API
-This app uses TMDb API with a bearer token for authentication.
-
-Make sure to replace your API token securely in your project.
-
-Technologies
-React
-
-Tailwind CSS
-
-TMDb API
+$Trending movies are displayed by default
+$Technologies
+-React
+-Tailwind CSS
+-TMDb API
